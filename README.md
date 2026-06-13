@@ -5,6 +5,7 @@ Course: ICS3U
 Date: June 11 2026  
 
 Description
+
 I chose to create the Cybersecurity Awareness Certification for my ISU. It is a console-based Java application that gives users a 12-question multiple-choice test about cybersecurity. The test is split into two sections: Part A (Recognizing Cyber Threats) and Part B (Online Privacy & Safe Practices). 
 
 To pass the test, the user needs to get at least 4 out of 6 questions right in each section, and an overall score of 75% (9/12). 
