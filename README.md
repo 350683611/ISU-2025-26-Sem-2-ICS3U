@@ -1,7 +1,9 @@
 # ISU-2025-26-Sem-2-ICS3U
 
 Author: Zayd Khan
-Course: ICS3U  
+
+Course: ICS3U
+
 Date: June 11 2026  
 
 Description
